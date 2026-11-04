@@ -1,0 +1,28 @@
+
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# IntelliJ settings
+.idea/
+
+# Temporary session file
+session_user.txt
+
+# Log files
+*.log
+
+# Build output
+build/
+out/
+target/
+
+# Environment variables
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
